@@ -1,0 +1,24 @@
+
+.logo{
+    height: 100px;
+    width: auto;
+    margin-right: 110px;
+}
+
+.header{
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.button-links{
+    display: flex;
+    justify-content: right;
+}
+
+.top-buttons{
+    font-size: 16x;
+    padding-right: 40px;
+    font-family: "Roboto";
+}

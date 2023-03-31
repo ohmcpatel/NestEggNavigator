@@ -1,0 +1,27 @@
+.finances{
+    width: 416px;
+    height: 820px;
+    background: #F9F9F9;
+    box-shadow: 4px 4px 4px rgba(245, 233, 247, 0.17), 8px 8px 40px rgba(249, 220, 254, 0.21);
+    border-radius: 46px;
+    margin-left: 5px;
+}
+
+.finances-title{    
+    font-family: 'Roboto';
+    font-size: 32px;
+    line-height: 38px;
+    margin: 0px;
+    text-align: center;
+    padding-top: 18px;
+
+}
+
+.finances-inner
+{
+    width: 416px;
+    height: 750px;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 4px rgba(245, 233, 247, 0.17), 8px 8px 40px rgba(240, 219, 242, 0.42);
+    border-radius: 44px;
+}

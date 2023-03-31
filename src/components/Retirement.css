@@ -1,0 +1,13 @@
+.retirement{
+    background: #F9F9F9;
+    box-shadow: 4px 4px 4px rgba(245, 233, 247, 0.17), 8px 8px 40px rgba(240, 219, 242, 0.42);
+    border-radius: 35px;
+    width: 927px;
+    height: 399px;
+    margin-left: 24px;
+}
+
+.retirement-title{
+    margin: 0px;
+    padding: 18px;
+}
